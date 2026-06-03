@@ -11,6 +11,9 @@ DOWNLOAD INSTRUCTIONS
 In Digital Grass you can...
 
   -Purchase items in the shop!
+  
   -Water and fertilize your grass!
+  
   -Enjoy humorous daily musings!
+  
   -Or, (if you are dedicated enough), FIND THE ELUSIVE SECRET END SCREEN!!!
